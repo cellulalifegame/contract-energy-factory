@@ -1,0 +1,17 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+.deploys
+.states
+.DS_Store
+.openzeppelin/
+abi/
+*.env.json
+*/data.json
